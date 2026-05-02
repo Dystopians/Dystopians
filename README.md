@@ -5,26 +5,65 @@
 <h1 align="center">Dystopians</h1>
 
 <p align="center">
-  Geometry · Systems · Visual Experiments · Open Source
+  Perception · Generation · Geometry · Quiet Systems
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dystopians&style=flat-square&color=3B82F6&label=views" alt="profile views" />
+  <a href="https://caipeilin.com/">
+    <img src="https://img.shields.io/badge/enter-the%20site-0F172A?style=flat-square&labelColor=0F172A&color=2563EB" alt="personal site" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Dystopians&style=flat-square&color=3B82F6&label=visitors" alt="profile visitors" />
   <img src="https://img.shields.io/github/followers/Dystopians?style=flat-square&color=3B82F6&label=followers" alt="followers" />
   <img src="https://img.shields.io/github/stars/Dystopians?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=3B82F6&label=stars" alt="stars" />
 </p>
 
 ---
 
-## About Me
+## Drift
 
-- Building strange but useful things
-- Exploring geometry, systems, and visual design
-- Interested in profile customization, experimental presentation, and open-source work
+I build around the edge where **models stop recognizing the world and start reconstructing it**.
+
+Some of my work lives in computer vision, some in language models, some in multimodal generation, and some in the spaces between them: sparse views becoming structure, memory becoming geometry, agents learning to move through scenes they barely understand.
+
+This profile is only the surface. The full map is elsewhere.
+
+<p align="center">
+  <a href="https://caipeilin.com/">
+    <img src="https://img.shields.io/badge/full%20map-caipeilin.com-2563EB?style=for-the-badge&labelColor=0F172A" alt="full map" />
+  </a>
+</p>
 
 ---
 
-## Stats
+## Coordinates
+
+```txt
+signal     : vision, language, geometry, generation
+terrain    : sparse observations, world models, embodied agents
+instrument : code, experiments, memory, rendering
+rule       : reveal enough to follow the trail, not enough to flatten it
+```
+
+<details>
+  <summary>What I usually work on</summary>
+
+- 3D reconstruction under sparse and imperfect observations
+- Controllable generative rendering and camera-aware simulation
+- Personalization, security, and evaluation for large language models
+- Systems that bind perception, memory, and action into something navigable
+
+</details>
+
+<details>
+  <summary>What is intentionally not mirrored here</summary>
+
+The complete publication list, CV, contact route, institutional details, and the more literal biography are kept on the personal site.
+
+</details>
+
+---
+
+## Telemetry
 
 <p align="center">
   <img
@@ -49,7 +88,7 @@
 
 ---
 
-## Activity
+## Wake Pattern
 
 <p align="center">
   <img
@@ -58,6 +97,16 @@
     alt="Activity Graph"
   />
 </p>
+
+---
+
+## Public Artifacts
+
+| Artifact | Trace | Status |
+|---|---|---|
+| [SPCarNet](https://github.com/Dystopians/SPCarNet) | geometry, reconstruction, structure | Active |
+| [mesh-](https://github.com/Dystopians/mesh-) | experiments near surfaces and form | Active |
+| [Dystopians](https://github.com/Dystopians/Dystopians) | this profile, visual systems, README as interface | Ongoing |
 
 ---
 
@@ -73,17 +122,7 @@
 
 ---
 
-## Featured Projects
-
-| Project | Description | Status |
-|---|---|---|
-| [SPCarNet](https://github.com/Dystopians/SPCarNet) | Geometry and reconstruction related work | Active |
-| [mesh-](https://github.com/Dystopians/mesh-) | Current working repository | Active |
-| [Dystopians](https://github.com/Dystopians/Dystopians) | Profile README and visual experiments | Ongoing |
-
----
-
-## Recent Activity
+## Recent Motion
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -91,5 +130,5 @@
 ---
 
 <p align="center">
-  <i>"The waves keep coming."</i>
+  <i>"The waves keep coming. The map stays incomplete."</i>
 </p>
