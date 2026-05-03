@@ -66,26 +66,21 @@ The complete publication list, CV, contact route, institutional details, and the
 ## Telemetry
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dystopians&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=334155&icon_color=2563EB&ring_color=2563EB"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Dystopians&hide_border=true&background=FFFFFF00&stroke=94A3B8&ring=2563EB&fire=60A5FA&currStreakLabel=0F172A&sideLabels=334155&dates=64748B&currStreakNum=0F172A&sideNums=0F172A"
-    height="170"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/Dystopians">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=Dystopians&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&title_color=0F172A&text_color=334155&icon_color=2563EB"
+      alt="Dystopians GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Dystopians?tab=repositories">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dystopians&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=0F172A&text_color=334155"
+      alt="Dystopians Top Languages"
+    />
+  </a>
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dystopians&layout=compact&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=334155"
-    height="160"
-    alt="Top Languages"
-  />
-</p>
-
 ---
 
 ## Wake Pattern
