@@ -69,18 +69,19 @@ The complete publication list, CV, contact route, institutional details, and the
   <a href="https://github.com/Dystopians">
     <img
       height="170"
-      src="https://github-readme-stats.vercel.app/api?username=Dystopians&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&title_color=0F172A&text_color=334155&icon_color=2563EB"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dystopians&theme=transparent"
       alt="Dystopians GitHub Stats"
     />
   </a>
   <a href="https://github.com/Dystopians?tab=repositories">
     <img
       height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dystopians&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=0F172A&text_color=334155"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dystopians&theme=transparent"
       alt="Dystopians Top Languages"
     />
   </a>
 </p>
+
 ---
 
 ## Wake Pattern
